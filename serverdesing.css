@@ -1,0 +1,23 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    background-image: url(headerestrada.png);
+    height: 99px;
+    background-size: cover;
+    background-position: center;
+}
+
+.containertext{
+    background-image: url(BackgroundGraduación.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+    font-size: larger;
+    padding: 35px;
+}
